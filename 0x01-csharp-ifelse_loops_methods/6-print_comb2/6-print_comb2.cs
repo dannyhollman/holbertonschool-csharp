@@ -12,7 +12,7 @@ namespace _6_print_comb2
 			{
 				if ((i / 10) < (i % 10))
 				{
-					Console.Write(i);
+					Console.Write("{0:D2}", i);
 					if (i != 89)
 						Console.Write(", ");
 				}
