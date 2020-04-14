@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp2.1/5-print_comb.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp2.1/5-print_comb.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp2.1/5-print_comb.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp2.1/5-print_comb.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/bin/Debug/netcoreapp2.1/5-print_comb.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp2.1/5-print_comb.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp2.1/5-print_comb.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp2.1/5-print_comb.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp2.1/5-print_comb.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp2.1/5-print_comb.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/5-print_comb/obj/Debug/netcoreapp2.1/5-print_comb.pdb
