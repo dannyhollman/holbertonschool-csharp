@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/bin/Debug/netcoreapp2.1/9-add.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/9-add/obj/Debug/netcoreapp2.1/9-add.pdb
