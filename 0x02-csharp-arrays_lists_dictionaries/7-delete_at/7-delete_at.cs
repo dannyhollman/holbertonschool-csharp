@@ -7,7 +7,7 @@ class List
 	{
 		if (index >= myList.Count || index < 0)
 		{
-			Console.WriteLine("Index out of range");
+			Console.WriteLine("Index is out of range");
 			return myList;
 		}
 		myList.Remove(myList[index]);
