@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/netcoreapp2.1/8-number_keys.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/netcoreapp2.1/8-number_keys.pdb

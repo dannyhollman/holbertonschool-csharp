@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.pdb

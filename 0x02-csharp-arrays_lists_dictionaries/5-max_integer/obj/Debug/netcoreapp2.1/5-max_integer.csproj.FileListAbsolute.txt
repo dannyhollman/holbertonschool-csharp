@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/netcoreapp2.1/5-max_integer.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/netcoreapp2.1/5-max_integer.pdb
