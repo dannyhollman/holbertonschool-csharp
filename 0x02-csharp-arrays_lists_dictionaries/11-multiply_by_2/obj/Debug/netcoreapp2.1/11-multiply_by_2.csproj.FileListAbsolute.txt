@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.pdb

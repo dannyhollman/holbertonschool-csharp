@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/netcoreapp2.1/14-rectangular_array.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/netcoreapp2.1/14-rectangular_array.pdb

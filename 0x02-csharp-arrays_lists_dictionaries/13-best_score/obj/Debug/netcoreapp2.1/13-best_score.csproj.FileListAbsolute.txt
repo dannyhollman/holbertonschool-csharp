@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/netcoreapp2.1/13-best_score.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/netcoreapp2.1/13-best_score.pdb

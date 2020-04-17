@@ -1,0 +1,11 @@
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.csprojAssemblyReference.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.AssemblyInfoInputs.cache
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.AssemblyInfo.cs
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.deps.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.runtimeconfig.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.runtimeconfig.dev.json
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/netcoreapp2.1/10-delete_key_value.pdb
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.dll
+/Users/danny/Documents/code/holberton_vr/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/netcoreapp2.1/10-delete_key_value.pdb
