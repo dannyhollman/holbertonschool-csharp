@@ -8,6 +8,9 @@ class Dictionary
 		int highest = 0;
 		string answer = "";
 
+		if (myList.Count <= 0)
+			return "None";
+
 		foreach(var pairs in myList)
 		{
 			if (pairs.Value > highest)
