@@ -20,7 +20,6 @@ class List
 			catch (ArgumentOutOfRangeException)
 			{
 				Console.WriteLine("Out of range");
-				return newList;
 			}
 		}
 		return newList;
