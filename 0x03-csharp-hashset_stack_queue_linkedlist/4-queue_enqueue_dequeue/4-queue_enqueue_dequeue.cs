@@ -10,8 +10,8 @@ class MyQueue
 		if(aQueue.Count == 0)
 			Console.WriteLine("Queue is empty");
 		else
-			Console.WriteLine("Top item: " + aQueue.Peek());
-		Console.WriteLine("Stack contains " + "\"" + search + "\": " + aQueue.Contains(search));
+			Console.WriteLine("First item: " + aQueue.Peek());
+		Console.WriteLine("Queue contains " + "\"" + search + "\": " + aQueue.Contains(search));
 		if(aQueue.Contains(search))
 		{
 			foreach(string x in aQueue.ToArray())
