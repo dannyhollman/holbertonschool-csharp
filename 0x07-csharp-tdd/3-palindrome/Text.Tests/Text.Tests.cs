@@ -34,5 +34,15 @@ namespace Text.Tests
 
             Assert.AreEqual(true, result);
         }
+
+        [Test]
+        public void Test4()
+        {
+            string temp = "";
+
+            bool result = Str.IsPalindrome(temp);
+
+            Assert.AreEqual(true, result);
+        }
     }
 }
