@@ -10,7 +10,7 @@ namespace Text
         {
             int count = 1;
 
-            if (s.Length == 0)
+            if (s == null || s.Length == 0)
                 return 0;
 
             for (int i = 0; i < s.Length; i++)
