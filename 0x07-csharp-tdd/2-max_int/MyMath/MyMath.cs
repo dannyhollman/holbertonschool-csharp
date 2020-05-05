@@ -9,7 +9,7 @@ namespace MyMath
         /// <summary> Returns largest int from list </summary>
         public static int Max(List<int> nums)
         {
-            if (nums.Count == 0)
+            if (nums == null || nums.Count == 0)
                 return 0;
 
             int max = nums[0];

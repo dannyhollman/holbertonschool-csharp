@@ -26,5 +26,15 @@ namespace MyMath.Tests
 
             Assert.AreEqual(0, result);
         }
+
+        [Test]
+        public void Test3()
+        {
+            List<int> temp = null;
+
+            int result = Operations.Max(temp);
+
+            Assert.AreEqual(0, result);
+        }
     }
 }
