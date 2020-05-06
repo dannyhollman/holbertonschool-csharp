@@ -34,5 +34,25 @@ namespace Text.Tests
 
             Assert.AreEqual(-1, result);
         }
+
+        [Test]
+        public void Test4()
+        {
+            string temp = "";
+
+            int result = Str.UniqueChar(temp);
+
+            Assert.AreEqual(-1, result);
+        }
+
+        [Test]
+        public void Test5()
+        {
+            string temp = null;
+
+            int result = Str.UniqueChar(temp);
+
+            Assert.AreEqual(-1, result);
+        }
     }
 }

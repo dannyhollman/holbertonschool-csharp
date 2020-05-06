@@ -8,6 +8,9 @@ namespace Text
         /// <summary> Returns index of first non-repeating char </summary>
         public static int UniqueChar(string s)
         {
+            if (s == null)
+                return -1;
+
             for (int i = 1; i < s.Length - 1; i++)
             {
                 if (s[i] != s[i - 1] && s[i] == s[i + 1])
