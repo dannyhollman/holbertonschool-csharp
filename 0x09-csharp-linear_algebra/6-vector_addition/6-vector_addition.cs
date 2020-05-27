@@ -12,9 +12,11 @@ class VectorMath
 		if (vector2.Length > 3 || vector2.Length < 2)
 			return error;
 		if (vector1.Length != vector2.Length)
-
+			return error;
+		
+		double[] sum = new double[vector1.Length];
 		for (int i = 0; i < vector1.Length; i++)
-			vector1[i] += vector2[i];
-		return vector1;
+			sum[i] = vector1[i] + vector2[i];
+		return sum;
 	}
 }
