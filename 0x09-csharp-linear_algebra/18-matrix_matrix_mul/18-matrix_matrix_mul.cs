@@ -6,7 +6,7 @@ class MatrixMath
 	/// <summary> Multiply two matrices </summary>
 	public static double[,] Multiply(double[,] matrix1, double[,] matrix2)
 	{
-		if (matrix1.GetLength(0) != matrix2.GetLength(1))
+		if (matrix1.GetLength(1) != matrix2.GetLength(0))
 			return new double[,] { { -1 } };
 
 		double[,] matrix = new double[matrix1.GetLength(0), matrix2.GetLength(1)];
