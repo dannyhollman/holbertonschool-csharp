@@ -71,7 +71,7 @@ public class Decoration : Base, IInteractive, IBreakable
 		if (this.durability <= 0)
 			Console.WriteLine("The " + this.name + " has been broken.");
 		else if (this.isQuestItem)
-			Console.WriteLine("You look at the " + this.name + ". There's a key inside");
+			Console.WriteLine("You look at the " + this.name + ". There's a key inside.");
 		else if (!this.isQuestItem)
 			Console.WriteLine("You look at the " + this.name + ". Not much to see here.");
 	}
@@ -105,10 +105,10 @@ public class Key : Base, ICollectable
 		if (!this.isCollected)
 		{
 			this.isCollected = true;
-			Console.WriteLine("You pick up the " + this.name);
+			Console.WriteLine("You pick up the " + this.name + ".");
 		}
 		else
-			Console.WriteLine("You have already picked up the " + this.name);
+			Console.WriteLine("You have already picked up the " + this.name + ".");
 	}
 }
 /// <summary> RoomObjects </summary>
