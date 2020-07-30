@@ -68,8 +68,11 @@ public class Player
 /// <summary> enum of modifiers </summary>
 public enum Modifier
 {
+	/// <summary> Weak modifier </summary>
 	Weak,
+	/// <summary> Base modifier </summary>
 	Base,
+	/// <summary> Strong modigier </summary>
 	Strong
 }
 /// <summary> Modifier delegate </summary>
