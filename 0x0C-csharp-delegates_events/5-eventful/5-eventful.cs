@@ -7,7 +7,8 @@ public class Player
 	private string name;
 	private float maxHp;
 	private float hp;
-	EventHandler<CurrentHPArgs> HPCheck;
+	/// <summary> Event handler </summary>
+	public EventHandler<CurrentHPArgs> HPCheck;
 	/// <summary> Player constructor </summary>
 	public Player(string name = "Player", float maxHp = 100f)
 	{
@@ -25,7 +26,7 @@ public class Player
 	/// <summary> Print current health </summary>
 	public void PrintHealth()
 	{
-		Console.WriteLine(this.name + " had " + this.hp + " / " + this.maxHp + " health.");
+		Console.WriteLine(this.name + " has " + this.hp + " / " + this.maxHp + " health");
 	}
 	/// <summary> CalculateHealth delegate </summary>
 	public delegate void CalculateHealth(float amount);
