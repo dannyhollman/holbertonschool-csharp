@@ -4,11 +4,11 @@
 public class Player
 {
 	/// <summary> Player name </summary>
-	public string name;
+	private string name;
 	/// <summary> Player max health </summary>
-	public float maxHp;
+	private float maxHp;
 	/// <summary> Player health </summary>
-	public float hp;
+	private float hp;
 	/// <summary> Player constructor </summary>
 	public Player(string name = "Player", float maxHp = 100f)
 	{
@@ -24,7 +24,7 @@ public class Player
 	/// <summary> Print current health </summary>
 	public void PrintHealth()
 	{
-		Console.WriteLine(this.name + " had " + this.hp + " / " + this.maxHp + " health.");
+		Console.WriteLine(this.name + " has " + this.hp + " / " + this.maxHp + " health");
 	}
 	/// <summary> CalculateHealth delegate </summary>
 	public delegate void CalculateHealth(float amount);
