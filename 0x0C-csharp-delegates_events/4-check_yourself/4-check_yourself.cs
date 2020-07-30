@@ -7,7 +7,8 @@ public class Player
 	private string name;
 	private float maxHp;
 	private float hp;
-	EventHandler<CurrentHPArgs> HPCheck;
+	/// <summary> Event handler </summary>
+	public EventHandler<CurrentHPArgs> HPCheck;
 	/// <summary> Player constructor </summary>
 	public Player(string name = "Player", float maxHp = 100f)
 	{
